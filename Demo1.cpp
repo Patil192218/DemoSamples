@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout<<"Dog and Rabbit"<<endl;
+    cout<<"Dog and Rabbit and Cat"<<endl;
 
     return 0;
 }
